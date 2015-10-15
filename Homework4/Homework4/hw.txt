@@ -1,0 +1,1 @@
+We did not define a “!=“ operator for the class type “URL”. When the program do the comparison “p->m_value != value” in find function, it does not know how to compare these two.
